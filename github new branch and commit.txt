@@ -1,0 +1,8 @@
+git status
+git commit -m "initial_app_setup"
+git branch -c initial_app_setup
+git branch 
+git checkout initial_app_setup
+git branch 
+git push origin head
+git checkout main
